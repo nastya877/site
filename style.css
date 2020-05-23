@@ -1,0 +1,62 @@
+body {
+	background-color: #ffc3ea;
+}
+#flex {
+	display: flex;
+	flex-direction: row;
+}
+
+nav {
+	background-color: #ececec;
+}
+
+main {
+	background-color: #ffffff;
+	padding: 0px 20px;
+	width: 100%;
+}
+
+h1 {
+	color: red;
+}
+
+ul {
+	padding: 20px;
+}
+
+li {
+	list-style: none;
+	margin-bottom: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.lak {
+    width: 200px;
+    height: 200px;
+}
+
+.name {
+    text-align: center;
+    font-weight: 600;
+}
+
+.tovar {
+    float: left; /*Обтекание слева. Чтобы лаки стояли слева друг от друга*/
+    margin: 20px 20px;
+}
+
+.galereya {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.nogti {
+    width: 300px;
+    height: 300px;
+}
